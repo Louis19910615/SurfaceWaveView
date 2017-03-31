@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SurfaceWaveView">
+        <attr name="fstWavePaintColor" format="color"/>
+        <attr name="secWavePaintColor" format="color"/>
+        <attr name="stretchFactorA" format="float"/>
+        <attr name="translateXSpeedOne" format="integer"/>
+        <attr name="translateXSpeedTwo" format="integer"/>
+        <attr name="waterDepth" format="integer"/>
+    </declare-styleable>
+</resources>
